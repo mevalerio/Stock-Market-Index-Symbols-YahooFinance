@@ -1,0 +1,300 @@
+﻿Country,Index,YF_symbols
+South Africa,,
+,Top 40 USD Net TRI Index,^JN0U.JO
+,JSE - Johannesburg Stock Exchange Domestic Company Index,
+Botswana,,
+,BSE DCI - Botswana Stock Exchange Domestic Company Index,
+,BSE FCI - Botswana Stock Exchange Foreign Company Index,
+Zambia,,
+,LASI -LuSE All shares Index,
+Egypt,,
+,EGX 30 Index,^CASE30
+Ghana,,
+,GSE All-Share Index,
+Morocco,,
+,MASI index (Moroccan All Shares Index),
+,MADEX index (Moroccan Most Active shares Index),
+Zimbabwe,,
+,Zimbabwe Industrial Index,
+,Zimbabwe Mining Index,
+Argentina,,
+,MERVAL,^MERV
+,MERVAL - 12 Companies,M.BA
+Brazil,,
+,IBOVESPA - Bovespa Index,^BVSP
+Canada,,
+,S&P/TSX 60,XIU.TO
+,S&P/TSX Composite Index,^GSPTSE
+,S&P/TSX Venture Composite Index,
+Chile,,
+,S&P/CLX IPSA,^IPSA
+,IPSA,SP-IPSA.SN
+,Dow Jones Chile Index,^CLDOW
+,FTSE Chile Index,WICHL.FGI
+Colombia,,
+,IGBC,
+,COLCAP,
+Haiti,,
+Jamaica,,
+,JSE - Jamaica Stock Exchange,
+Mexico,,
+,"IPC - Indice de Precios y Cotizaciones (""Bolsa index"")",^MXX
+Peru,,
+,SPBLPGPT,
+Trinidad and Tobago,,
+,TTSE - Trinidad and Tobago Stock Exchange,
+United States,,
+,DJ - NYSE COMPOSITE,^NYA
+,Amex indices,^XAX
+,NYSE Arca Major Market Index,^XMI
+,CBOE indices,
+,BXD - CBOE DJIA BuyWrite Index ,
+,BXN - CBOE NASDAQ-100 BuyWrite Index ,
+,VXN - CBOE NASDAQ-100 Volatility Index ,
+,BXM - CBOE S&P 500 BuyWrite Index ,
+,VIX - CBOE Volatility Index,^VIX
+,Dow Jones & Company indices,
+,Dow Jones Industrial Average,^DJI
+,Dow Jones Transportation Average,
+,Dow Jones Utility Average,^DJU
+,MarketGrader indices,
+,Barron's 400 Index[1],^B400
+,Nasdaq indices,
+,NASDAQ Composite,^IXIC
+,NASDAQ-100,
+,Russell Indexes (published by Russell Investment Group),
+,Russell 3000,^RUA
+,Russell 1000,
+,Russell Top 200,^RT200
+,Russell MidCap,^RMCC
+,Russell 2500,^R25I
+,Russell Small Cap Completeness,^RSCC
+,Standard & Poor's indices,
+,"S&P 500 (GSPC, INX, SPX)",^GSPC
+,S&P 100,^OEX
+,S&P Midcap 400,
+,S&P Midcap 400/BARRA Growth,
+,S&P Midcap 400/BARRA Value,
+,S&P SmallCap 600,
+,S&P SmallCap 600/BARRA Growth,
+,S&P SmallCap 600/BARRA Value,
+,Value Line Composite Index,
+,Wilshire Associates indices,
+,Wilshire 5000,^W5000
+,Wilshire 4500,^W4500
+Venezuela,,
+,IBC - Índice Bursátil Caracas ,
+Bangladesh,,
+,CSE 30,
+,CSC X,
+,CASPI,
+,CSI,
+,CSE50,
+,DSEX,
+,DSE,
+China,,
+,TSEC weighted index Taiwan,^TWII
+,SSE Composite Index Shang,000001.SS
+,SSE Composite Index,^SSEC
+,SZSE Component Index,159903.SZ
+,SSE 50 Index,^SSE50
+,SSE 180 Index,^SSE180
+,CSI 300 Index,^SHSZ300
+,SZSE 100 Index,399011.SZ
+,SZSE 200 Index,399009.SZ
+,SZSE 300 Index,399344.SZ
+,CSI 100 Index,000903.SS
+Hong Kong,,
+,Hang Seng Index,^HIS
+,Hang Seng China Enterprises Index,^HSCE
+,Hang Seng China H-Financials Index,
+,Hang Seng China-Affiliated Corporations Index,
+India,,
+,BSE - Bombay Stock Exchange - Sensex,^BSESN
+,NSE - National Stock Exchange - Nifty50,^NSEDIV
+Indonesia,,
+,Jakarta Composite Index,^JKSE
+,LQ-45,
+,JII - Jakarta Islamic Index,^JKII
+Iran,,
+,TEPIX,
+Israel,,
+,TA-125 Index (Tel Aviv 125),^TA125.TA
+,"TA-35 Index TASE's flagship index, listing TASE's 35 largest stocks by market cap, previously called the Ma'of.[2]",TA35.TA
+,TA-90 - Stocks on TA-125 which are not included in TA-35,TA90.TA
+Japan,,
+,Nikkei 225,^N225
+Jordan,,
+,ASE Weighted Index,
+Kazakhstan,,
+,KASE,
+Malaysia,,
+,Kuala Lumpur Composite Index,
+,MESDAQ,
+,FTSE Bursa Malaysia Index,^KLSE
+Oman,,
+,MSM-30,
+Pakistan,,
+,KSE 100 Index,
+,KSE All Share Index,
+,KSE-30 Index,
+,KMI 30 Index,
+Philippines,,
+,PSEi - PSE Index,PSEI.PS
+,PSE All Shares Index,
+,PSE Financials Index,
+,PSE Mining and Oil Index,
+Qatar,,
+,FTSE Qatar Index,WIQAT.FGI
+,DSM-200,
+Saudi Arabia,,
+,Tadawul,^TASI.SR
+Singapore,,
+,STI - Straits Times Index,^STI
+South Korea,,
+,KOSPI,^KS11
+,KOSDAQ,^KQ11
+Sri Lanka,,
+,LKR - S&P Sri Lanka 20 Index,S&PSL20.CM
+,ASPI - All Share Price Index ,
+,MPI - Milanka Price Index,
+,CSE  - Colombo Stock Exchange Sector indices,
+Taiwan,,
+,TIP TAIEX and Industry Elite 30,IX0106.TW
+,TAIEX - Taiwan Capitalization Weighted Stock Index,
+Thailand,,
+,SET Index,^SET.BK
+,SET50 Index,^SET50.BK
+,SET100 Index,^SET100.BK
+Vietnam,,
+,CBV Index,
+,S&P Vietnam 10 Index,
+,FTSE Vietnam Index,FVTT.FGI
+Austria,,
+,ATX,^ATXPRIME
+Belgium,,
+,BEL 20,^BFX
+,Cboe Belgium 20,^BBE20P
+Bosnia and Herzegovina,,
+,BIRS,
+,FIRS,
+,ERS10,
+Bulgaria,,
+,SOFIX,
+,Bulgarian Traded Index,BTL.VI
+Croatia,,
+,CROBEX,0WVN.DE
+,CROBIS,
+Czech Republic,,
+,PX Index,FPXAA.PR
+Denmark,,
+,OMXC20 - OMX Copenhagen 20 ,^OMXCXC20PI
+Finland,,
+,OMXH25 - OMX Helsinki 25,^OMXH25
+France,,
+,CAC 40,^FCHI
+,CAC Next 20,^CN20
+,CAC Large 60,CACLG.PA
+,CAC Mid 60,CACMR.PA
+,CAC Small,^CS90
+,SBF 120,^SBF120
+,CAC Mid & Small,CMSN.PA
+,CAC All-Tradable,^SBF250
+,CAC All Share,PAX.PA
+Germany,,
+,DAX PERFORMANCE-INDEX,^GDAXI
+,DAX 30,
+,TecDAX,^TECDAX
+,MDAX (Mid Cap),^MDAXI
+,SDAX (Small Cap),^SDAXI
+Greece,,
+,FTSE ATHEX Market Index,FTSEA.AT
+,Athex 20,
+Hungary,,
+,BUX Large Cap,
+,BUMIX Mid Cap,
+,Central European Blue Chip Index Regional Large Cap,
+,The NASDAQ Hungary Indexed,^NQHU
+Iceland,,
+,OMX Iceland 15 (discontinued),
+,OMX Iceland 6,
+Ireland,,
+,ISEQ 20,^IETP
+Italy,,
+,FTSE MIB,FTSEMIB.MI
+,FTSE Italia Mid Cap,ITMC.FGI
+,MIBTel,
+Lithuania,,
+,OMXV - OMX Vilnius ,^OMXV
+Luxembourg,,
+,LuxX Index - Luxembourg Stock Exchange,
+Netherlands,,
+,AEX index,^AEX
+,AMX index (Midcap),
+,AScX index (Small Cap) ASCX NR,ASCXN.AS
+Norway,,
+,OBX Index,OBX.OL
+Poland,,
+,WIG,
+,WIG30,
+Portugal,,
+,PSI-20,PSI20.LS
+,PSI-GERAL,
+Romania,,
+,BET-10,
+Russia,,
+,MOEX Russia Index,IMOEX.ME
+,MICEX (Moscow Interbank Currency Exchange),
+,RTSI - RTS Index ,RTSI.ME
+Serbia,,
+,BELEX15,
+,BELEXline,
+Slovakia,,
+,Slovak Share Index INAV EXPAT SLOVAK.SAX EUR ,0WVP.DE
+Spain,,
+,Madrid Stock Exchange General Index,
+,IBEX 35,^IBEX
+Sweden,,
+,OMXS30 - OMX Stockholm 30,XACT-OMXS30.ST
+,OMXSPI - OMX Stockholm PI ,^OMXSPI
+Switzerland,,
+,SMI - Swiss Market Index ,
+,SMI MID,SMID
+,SMI Expanded,
+,SPI - Swiss Performance Index,SPI20.SW
+,SLI - Swiss Leader Index,SLI.SW
+Ukraine,,
+,PFTS index,
+United Kingdom,,
+,FT30 Index,
+,FTSE 100 Index,^FTSE
+,FTSE MID 250 Index,^FTMC
+,FTSE 350 Index,^FTLC
+,FTSE All-Share Index,^FTAS
+,FTSE SmallCap Index,^FTSC
+,FTSE Fledgling Index,NSX.L
+,FTSE techMark Index,^FTT1X
+,FTSE AIM All-Share Index,^FTAI
+,FTSE AIM UK 50 Index,AIM5.L
+Australia,,
+,S&P/ASX 20 ,
+,S&P/ASX 50 ,
+,S&P/ASX 200,^AXJO
+,S&P/ASX 300 ,
+,SPDR S&P/ASX 50 Fund,SFY.AX
+New Zealand,,
+,S&P/NZX 50 INDEX GROSS,^NZ50
+Kuwait,,
+,Kuwait Stock Exchange Index,
+,FTSE Coast Kuwait 40 Index,GPCST001.FGI
+,Dow Jones Islamic Market Kuwait,^DJIMKW
+Latvia,,
+,NASDAQ OMX Riga,
+,OMX Riga_GI,^OMXR
+,DWLI - DJ Latvia Total Market ,
+Malta,,
+,MSE (MSE),MSE
+,Malta Stock Exchange,MALTEX:IND
+Montenegro,,
+,MNSE10 - MNSE 10,
+,MONEX - MONEX,
